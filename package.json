@@ -1,9 +1,9 @@
 {
   "name": "droiv-ios",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "droiv-ios release",
   "bin": {
-    "create": "bin/create"
+    "create": "bin/"
   },
   "repository": {
     "type": "git",
