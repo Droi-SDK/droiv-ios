@@ -1,6 +1,6 @@
 {
   "name": "droiv-ios",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "droiv-ios release",
   "bin": {
     "create": "bin/"
